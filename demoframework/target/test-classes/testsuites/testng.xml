@@ -1,0 +1,7 @@
+<suite name="Smoke Suite">
+    <test name="demoframework">
+        <classes>
+            <class name="tests.LoginTest"/>
+        </classes>
+    </test>
+</suite>
