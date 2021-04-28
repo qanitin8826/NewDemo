@@ -1,3 +1,2 @@
 Hello Nitin Sharma changed file
-changed by User B
-Feature branch 1
+changed By user 1
